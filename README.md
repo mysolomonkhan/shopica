@@ -1,2 +1,0 @@
-# shopica
-My awesome repository
